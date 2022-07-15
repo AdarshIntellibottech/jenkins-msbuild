@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GltWm7i2oFxHSD95CDwgg+K8dY3gIrMn4ZI5mZDXGkd4NvyvkKoz5191Cm5hPpFQxUl2hIhIsZX54tYhh+5sUQ==",
+  "dgSpecHash": "BRjpVFrWYCDvNxlnOm3uBbmVPxgTMKyiOgwzvB9PuNNRFOT0+10YNeLCaMY6x4dt2Gv+tgAWhPcE0HYOk6X2vw==",
   "success": true,
-  "projectFilePath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\k\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\nqvad\\Source\\Repos\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
